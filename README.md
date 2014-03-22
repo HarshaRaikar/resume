@@ -13,13 +13,13 @@ growth in a competitive environment while being resourceful, innovative and flex
 
 ## PROFILE SUMMARY
 *
-	-	A performance driven professional with more than 6 years of experience in Software Development in the IT industry
-	-	Currently associated with AlsBridge, Bangalore as Lead Software Engineer
-	-	Possess extensive exposure to the Financial, CRM & Benchmarking domains and Agile (Scrum) process
-	-	Experienced in designing, developing & implementing multi-tier applications using Microsoft technologies
-	-	Skilled in mapping clients’ business requirements and translating these requirements into functional specifications
-	-	Dexterous in adopting pragmatic approach in improvising on solutions and resolving complex business issues
-	-	An excellent communicator with exceptional presentation, problem solving & client servicing skills
+*	A performance driven professional with more than 6 years of experience in Software Development in the IT industry
+*	Currently associated with AlsBridge, Bangalore as Lead Software Engineer
+*	Possess extensive exposure to the Financial, CRM & Benchmarking domains and Agile (Scrum) process
+*	Experienced in designing, developing & implementing multi-tier applications using Microsoft technologies
+*	Skilled in mapping clients’ business requirements and translating these requirements into functional specifications
+*	Dexterous in adopting pragmatic approach in improvising on solutions and resolving complex business issues
+*	An excellent communicator with exceptional presentation, problem solving & client servicing skills
 
 
 ## CORE COMPETENCIES 
