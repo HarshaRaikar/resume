@@ -48,7 +48,7 @@ growth in a competitive environment while being resourceful, innovative and flex
 
 
 * Since Mar’12		**AlsBridge**, Bangalore as Lead Software Engineer
-* 
+ 
 	 - 	Involved in Design of the application, Development of core modules
 	 - 	Leading a team of 4
 	 - 	Code Review, documentation review, Feature Definition
