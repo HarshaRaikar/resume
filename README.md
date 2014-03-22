@@ -13,29 +13,29 @@ growth in a competitive environment while being resourceful, innovative and flex
 
 ## PROFILE SUMMARY
 *
-	 -	A performance driven professional with more than 6 years of experience in Software Development in the IT industry
-	 -	Currently associated with AlsBridge, Bangalore as Lead Software Engineer
-	 -	Possess extensive exposure to the Financial, CRM & Benchmarking domains and Agile (Scrum) process
-	 -	Experienced in designing, developing & implementing multi-tier applications using Microsoft technologies
-	 -	Skilled in mapping clients’ business requirements and translating these requirements into functional specifications
-	 -	Dexterous in adopting pragmatic approach in improvising on solutions and resolving complex business issues
-	 -	An excellent communicator with exceptional presentation, problem solving & client servicing skills
+	-	A performance driven professional with more than 6 years of experience in Software Development in the IT industry
+	-	Currently associated with AlsBridge, Bangalore as Lead Software Engineer
+	-	Possess extensive exposure to the Financial, CRM & Benchmarking domains and Agile (Scrum) process
+	-	Experienced in designing, developing & implementing multi-tier applications using Microsoft technologies
+	-	Skilled in mapping clients’ business requirements and translating these requirements into functional specifications
+	-	Dexterous in adopting pragmatic approach in improvising on solutions and resolving complex business issues
+	-	An excellent communicator with exceptional presentation, problem solving & client servicing skills
 
 
 ## CORE COMPETENCIES 
 *
-	 - 	Suggesting technology-based solutions for enhancing functional efficiency and achieving business excellence
-	 - 	Experience in the software development life cycle involving project planning, , tracking and delivery
-	 - 	Holding review meetings to monitor progress of the project as per schedule /, and ensuring timely completion and delivery of project to the client
-	 - 	Conducting system study and coordinating with team members for product documentation, system design & integration, coding, application maintenance, etc.
-	 - 	Delivering and implementing the project as per scheduled deadlines and extending post-implementation and maintenance support
-	 - 	Designing, developing and implementing the workflow program, presentation and handling various phases of interface development based on technical specification
-	 - 	Creating and sustaining a dynamic environment that motivates high performance amongst team members
+	- 	Suggesting technology-based solutions for enhancing functional efficiency and achieving business excellence
+	- 	Experience in the software development life cycle involving project planning, tracking and delivery
+	- 	Holding review meetings to monitor progress of the project as per schedule and ensuring timely completion and delivery of project to the client
+	- 	Conducting system study and coordinating with team members for product documentation, system design & integration, coding, application maintenance, etc.
+	- 	Delivering and implementing the project as per scheduled deadlines and extending post-implementation and maintenance support
+	- 	Designing, developing and implementing the workflow program, presentation and handling various phases of interface development based on technical specification
+	- 	Creating and sustaining a dynamic environment that motivates high performance amongst team members
 
 ## TECHNICAL SKILLS
 
 *	**Conversant with:**
-*	
+	
 	-	Enterprise Applications:	ProBenchmark 2.0, Pivotal CRM r6.x, Rally Dev & HP Quality Centre
 	-	Programming:		        C# .NET 4.0 , T-SQL, XML & JQuery
 	-	Web Technologies:		    Microsoft Cloud Services (Windows Azure Platform) , ASP .NET MVC 3.0 and MVC 4.0, JQuery, HTML5
@@ -76,26 +76,26 @@ growth in a competitive environment while being resourceful, innovative and flex
 	- Won extra mile award for innovative and fast turn around time in CDC for the project ’Sales Force Automation’
 * **I-appriciate in OFSS**
 	- Won the Oracle Financial Services Software Limited Team Member Award for project ‘FTI’ for the year 2007-2008
-	- 	Client appreciation for the design and successful implementation of the project ‘FTI Services Framework ‘ with no major issues.
+	- Client appreciation for the design and successful implementation of the project ‘FTI Services Framework ‘ with no major issues.
 * **Academic Project award**
-	- 	Academic Project in HP labs won the first prize in HP all India students conference for the year 2007 conducted by HP.
+	- Academic Project in HP labs won the first prize in HP all India students conference for the year 2007 conducted by HP.
     
 	  
 ##CERTIFICATIONS
 *
-	 - 	Microsoft Certified Professional Developer (**MCPD**) Certification in **Windows Azure Developer** (2013)
-	 - 	Microsoft Certified Technology Specialist (**MCTS**) Certification in **.NET Framework 4.0 Data Access** (2013)
-	 - 	Microsoft Certified Technology Specialist (**MCTS**) Certification in .NET Framework 4.0 Service Communication Applications (2013)
+	- Microsoft Certified Professional Developer (**MCPD**) Certification in **Windows Azure Developer** (2013)
+	- Microsoft Certified Technology Specialist (**MCTS**) Certification in **.NET Framework 4.0 Data Access** (2013)
+	- Microsoft Certified Technology Specialist (**MCTS**) Certification in .NET Framework 4.0 Service Communication Applications (2013)
 
 ##EDUCATION
 *
-	 - 	2007	B.E. (Computer Science) from M S Ramaiah Institute of Technology, Bangalore, affiliated to Vishweshwaraiah 		Technological University; secured 67.66%
-	 - 	2003	Pre University Course from M.M. Arts and Science College, Sirsi, affiliated to Karnataka state board; secured 84.5%
-	 - 	2001	10th from V.V.N.L High School, Jogfalls, affiliated to Karnataka State Board; secured 84.9%
+	- 2007	B.E. (Computer Science) from M S Ramaiah Institute of Technology, Bangalore, affiliated to Vishweshwaraiah 		Technological University; secured 67.66%
+	- 2003	Pre University Course from M.M. Arts and Science College, Sirsi, affiliated to Karnataka state board; secured 84.5%
+	- 2001	10th from V.V.N.L High School, Jogfalls, affiliated to Karnataka State Board; secured 84.9%
 
 ##PERSONAL DETAILS 
 *
-	 - 	Date of Birth:			2nd October 1985
-	 - 	Languages Known:		English, Hindi, Kannada and Konkani
-	 -  GitHub:					https://github.com/HarshaRaikar
+	- Date of Birth:			2nd October 1985
+	- Languages Known:		    English, Hindi, Kannada and Konkani
+	- GitHub:					https://github.com/HarshaRaikar
 
