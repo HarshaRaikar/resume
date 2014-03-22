@@ -11,7 +11,7 @@ hraikar@live.com
 growth in a competitive environment while being resourceful, innovative and flexible.
 
 
-*## PROFILE SUMMARY
+## PROFILE SUMMARY
 *
 	-	A performance driven professional with more than 6 years of experience in Software Development in the IT industry
 	-	Currently associated with AlsBridge, Bangalore as Lead Software Engineer
