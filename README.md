@@ -12,7 +12,7 @@ growth in a competitive environment while being resourceful, innovative and flex
 
 
 ## PROFILE SUMMARY
-*
+
 *	A performance driven professional with more than 6 years of experience in Software Development in the IT industry
 *	Currently associated with AlsBridge, Bangalore as Lead Software Engineer
 *	Possess extensive exposure to the Financial, CRM & Benchmarking domains and Agile (Scrum) process
@@ -23,14 +23,14 @@ growth in a competitive environment while being resourceful, innovative and flex
 
 
 ## CORE COMPETENCIES 
-*
-	- 	Suggesting technology-based solutions for enhancing functional efficiency and achieving business excellence
-	- 	Experience in the software development life cycle involving project planning, tracking and delivery
-	- 	Holding review meetings to monitor progress of the project as per schedule and ensuring timely completion and delivery of project to the client
-	- 	Conducting system study and coordinating with team members for product documentation, system design & integration, coding, application maintenance, etc.
-	- 	Delivering and implementing the project as per scheduled deadlines and extending post-implementation and maintenance support
-	- 	Designing, developing and implementing the workflow program, presentation and handling various phases of interface development based on technical specification
-	- 	Creating and sustaining a dynamic environment that motivates high performance amongst team members
+
+* 	Suggesting technology-based solutions for enhancing functional efficiency and achieving business excellence
+*	Experience in the software development life cycle involving project planning, tracking and delivery
+* 	Holding review meetings to monitor progress of the project as per schedule and ensuring timely completion and delivery of project to the client
+* 	Conducting system study and coordinating with team members for product documentation, system design & integration, coding, application maintenance, etc.
+* 	Delivering and implementing the project as per scheduled deadlines and extending post-implementation and maintenance support
+* 	Designing, developing and implementing the workflow program, presentation and handling various phases of interface development based on technical specification
+* 	Creating and sustaining a dynamic environment that motivates high performance amongst team members
 
 ## TECHNICAL SKILLS
 
@@ -82,20 +82,20 @@ growth in a competitive environment while being resourceful, innovative and flex
     
 	  
 ##CERTIFICATIONS
-*
-	- Microsoft Certified Professional Developer (**MCPD**) Certification in **Windows Azure Developer** (2013)
-	- Microsoft Certified Technology Specialist (**MCTS**) Certification in **.NET Framework 4.0 Data Access** (2013)
-	- Microsoft Certified Technology Specialist (**MCTS**) Certification in .NET Framework 4.0 Service Communication Applications (2013)
+
+* Microsoft Certified Professional Developer (**MCPD**) Certification in **Windows Azure Developer** (2013)
+* Microsoft Certified Technology Specialist (**MCTS**) Certification in **.NET Framework 4.0 Data Access** (2013)
+* Microsoft Certified Technology Specialist (**MCTS**) Certification in .NET Framework 4.0 Service Communication Applications (2013)
 
 ##EDUCATION
-*
-	- 2007	B.E. (Computer Science) from M S Ramaiah Institute of Technology, Bangalore, affiliated to Vishweshwaraiah 		Technological University; secured 67.66%
-	- 2003	Pre University Course from M.M. Arts and Science College, Sirsi, affiliated to Karnataka state board; secured 84.5%
-	- 2001	10th from V.V.N.L High School, Jogfalls, affiliated to Karnataka State Board; secured 84.9%
+
+* 2007	B.E. (Computer Science) from M S Ramaiah Institute of Technology, Bangalore, affiliated to Vishweshwaraiah 		Technological University; secured 67.66%
+* 2003	Pre University Course from M.M. Arts and Science College, Sirsi, affiliated to Karnataka state board; secured 84.5%
+* 2001	10th from V.V.N.L High School, Jogfalls, affiliated to Karnataka State Board; secured 84.9%
 
 ##PERSONAL DETAILS 
-*
-	- Date of Birth:			2nd October 1985
-	- Languages Known:		    English, Hindi, Kannada and Konkani
-	- GitHub:					https://github.com/HarshaRaikar
+
+* Date of Birth:		2nd October 1985
+* Languages Known:		English, Hindi, Kannada and Konkani
+* GitHub:			https://github.com/HarshaRaikar
 
